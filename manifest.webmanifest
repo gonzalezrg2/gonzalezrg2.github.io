@@ -1,6 +1,6 @@
 {
-  "name": "SimpleGymFront",
-  "short_name": "SimpleGymFront",
+  "name": "Simple Gym Manager",
+  "short_name": "SGM",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
