@@ -4,8 +4,16 @@
     border-radius: 20px !important;
 }
 
+.button-sgm-primary:disabled{
+    opacity: 0.5;
+}
+
 .button-sgm-second{
     background-color: #0025dd !important;
     color: white !important;
     border-radius: 20px !important;
+}
+
+.button-sgm-second:disabled{
+    opacity: 0.5;
 }
