@@ -1,0 +1,16 @@
+{
+    "countries": [
+        {
+            "name_en": "Mexico",
+            "name_es": "México",
+            "continent_en": "North America",
+            "continent_es": "América del Norte",
+            "capital_en": "Mexico City",
+            "capital_es": "Ciudad de México",
+            "dial_code": "+52",
+            "code_2": "MX",
+            "code_3": "MEX",
+            "tld": ".mx"
+        }
+    ]
+}
