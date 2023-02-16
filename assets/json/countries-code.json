@@ -11,18 +11,6 @@
             "code_2": "MX",
             "code_3": "MEX",
             "tld": ".mx"
-        },
-        {
-            "name_en": "Argentina",
-            "name_es": "Argentina",
-            "continent_en": "South America",
-            "continent_es": "América del Sur",
-            "capital_en": "Buenos Aires",
-            "capital_es": "Buenos Aires",
-            "dial_code": "+54",
-            "code_2": "AR",
-            "code_3": "ARG",
-            "tld": ".ar"
         }
     ]
 }
