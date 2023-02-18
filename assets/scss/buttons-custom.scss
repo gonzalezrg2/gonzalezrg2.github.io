@@ -8,6 +8,16 @@
     opacity: 0.5;
 }
 
+.button-sgm-frame-primary{
+    background-color: #02071a !important;
+    color: white !important;
+    border-radius: 0px !important;
+}
+
+.button-sgm-frame-primary:disabled{
+    opacity: 0.5;
+}
+
 .button-sgm-second{
     background-color: #0025dd !important;
     color: white !important;
